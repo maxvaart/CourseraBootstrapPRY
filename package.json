@@ -1,0 +1,31 @@
+{
+  "name": "module-1",
+  "version": "1.0.0",
+  "description": "Ejercicio de practica",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "\u001b[C\u001b[B",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxvaart/ModuleOneB.git"
+  },
+  "author": "Maxi Lain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxvaart/ModuleOneB/issues"
+  },
+  "homepage": "https://github.com/maxvaart/ModuleOneB#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1"
+  }
+}
