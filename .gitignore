@@ -1,5 +1,2 @@
-node_modules/*
-!bootstrap
-!bootstrap-social
-!jquery
-!font-awesome
+node_modules
+dist
